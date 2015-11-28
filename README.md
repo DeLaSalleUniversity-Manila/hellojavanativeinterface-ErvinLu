@@ -18,7 +18,7 @@ Getting Started
 
 Screenshots
 -----------
-![screenshot](screenshot.png)
+![screenshot](https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-ErvinLu/blob/master/device-2015-11-28-171159.png)
 
 Support
 -------
